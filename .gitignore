@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chat_logs.jsonl
+*.log
+.env
+.venv/
+venv/
